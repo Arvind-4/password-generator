@@ -1,13 +1,13 @@
-# Password-Generator
+# Password Generator
 
 Generates Password Instantly
 
-# ## How to Run this Locally
+## Get the code!
 
 ```
-cd /path/to/folder
+cd ~/Dev
 mkdir password_generator
-cd password_generator
-git clone https://github.com/Arvind-4/Password-Generator.git .
-python main.py
+cd ~/Dev/password_generator
+git clone https://github.com/Arvind-4/password-generator.git .
+python src/main.py
 ```
